@@ -5410,10 +5410,6 @@
     (property "Datasheet" "http://www.ti.com/lit/gpn/sn74ls02" (at 246.38 154.94 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "13" (uuid c2430cbb-478e-4aee-a542-b2489e38f0bd))
-    (pin "14" (uuid 3bc64b35-ae3f-4840-9b23-762fabdcfe72))
-    (pin "7" (uuid 0db4837d-051d-4150-b059-bfa8360e7915))
-    (pin "11" (uuid f6d247c9-db53-4b60-a2cd-935bf730ad15))
     (pin "1" (uuid 96a0b34d-0cd8-4419-b245-0bb940558c3a))
     (pin "2" (uuid c69b3b5f-7c63-4841-9f7d-7441971210dc))
     (pin "3" (uuid caf368d6-80f3-40aa-a2e8-e1ddd1dc3339))
@@ -5423,7 +5419,11 @@
     (pin "10" (uuid 9987dac1-3b98-4849-8f38-db3dd20bbd06))
     (pin "8" (uuid 724a8eac-ac57-495d-a8dc-08ce95a9a740))
     (pin "9" (uuid f9c86e3c-43bb-4f81-bc94-d1e49736f288))
+    (pin "11" (uuid f6d247c9-db53-4b60-a2cd-935bf730ad15))
     (pin "12" (uuid 824d2604-e41c-4628-8d47-e96664424b75))
+    (pin "13" (uuid c2430cbb-478e-4aee-a542-b2489e38f0bd))
+    (pin "14" (uuid 3bc64b35-ae3f-4840-9b23-762fabdcfe72))
+    (pin "7" (uuid 0db4837d-051d-4150-b059-bfa8360e7915))
     (instances
       (project "AppleII"
         (path "/f1f08369-4db3-46f7-9b89-a5d3cfbed55a/00000000-0000-0000-0000-00006016cde0"

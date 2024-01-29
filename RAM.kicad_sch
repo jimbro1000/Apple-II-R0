@@ -6048,8 +6048,8 @@
     (pin "10" (uuid ee73c60e-c17a-4846-8312-2b6d315ae4fa))
     (pin "11" (uuid 28bafc76-f4f4-4f9e-8032-6e91e5c02772))
     (pin "12" (uuid e88b4649-13c3-46fc-bd74-0eadf22fb347))
-    (pin "14" (uuid cfac4aca-902b-4822-adb2-9cfc8a71f466))
     (pin "13" (uuid cd2f620b-66e0-433d-ac70-e57a74305471))
+    (pin "14" (uuid cfac4aca-902b-4822-adb2-9cfc8a71f466))
     (pin "15" (uuid 0620e3ef-13c0-49a6-99d7-cfb25fdc05cc))
     (pin "16" (uuid 8c441307-d52b-45bf-adf8-31c1435ab0b6))
     (pin "2" (uuid 81a693d6-16ef-493a-ae8c-63f9ad0c4632))
@@ -6159,10 +6159,6 @@
     (property "Datasheet" "" (at 189.992 44.196 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "6" (uuid abb5d03f-3fa5-43a2-b26d-3169f292137b))
-    (pin "7" (uuid 79fc35d1-76a1-4247-ae3b-34b885c8b1d4))
-    (pin "8" (uuid 1152146e-de82-4791-8b74-9855c0573ca3))
-    (pin "9" (uuid 4fdc6c3e-6505-4dcc-96f9-de6f24202636))
     (pin "1" (uuid 6425c5da-a753-4379-bec4-60694ab1eab3))
     (pin "10" (uuid f5aa3fe4-3f6e-44d2-8b4c-c95ba5779193))
     (pin "11" (uuid 71e88afd-d8c8-455c-a35b-8238208c24e6))
@@ -6175,6 +6171,10 @@
     (pin "3" (uuid f2b6a9a7-ad5d-42f5-bd60-6ecbe0cc0496))
     (pin "4" (uuid 22c78ec4-da4e-47e9-88f3-45037cb1bc26))
     (pin "5" (uuid 31c1308d-8b31-4ed7-9a32-2ee305ba19e8))
+    (pin "6" (uuid abb5d03f-3fa5-43a2-b26d-3169f292137b))
+    (pin "7" (uuid 79fc35d1-76a1-4247-ae3b-34b885c8b1d4))
+    (pin "8" (uuid 1152146e-de82-4791-8b74-9855c0573ca3))
+    (pin "9" (uuid 4fdc6c3e-6505-4dcc-96f9-de6f24202636))
     (instances
       (project "AppleII"
         (path "/f1f08369-4db3-46f7-9b89-a5d3cfbed55a/00000000-0000-0000-0000-00006039aab4"

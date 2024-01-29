@@ -13,7 +13,7 @@
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 5ef98ffc-7703-4f46-8b3d-bd366e105405)
   )
-  (fp_text user "PCB~{EDGE}" (at -3.834 2.2446) (layer "F.Fab")
+  (fp_text user "PCB~{EDGE}" (at 0 4.699) (layer "F.Fab")
       (effects (font (size 0.8 0.8) (thickness 0.015)))
     (tstamp 9c72a69a-4b3a-4969-88d2-13fa3f3eeb42)
   )

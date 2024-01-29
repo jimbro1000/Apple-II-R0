@@ -5817,14 +5817,14 @@
     (property "Datasheet" "http://www.vishay.com/docs/31509/csc.pdf" (at 186.69 129.54 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "8" (uuid ee8ba4ff-c891-4ba7-8f5f-c599f33b4bfe))
     (pin "1" (uuid 58a708dd-78b9-40ce-ac2f-b96e1cf3385d))
-    (pin "3" (uuid d705da4b-fe4f-4c26-9e8b-71fcf2eb14fa))
     (pin "2" (uuid e678c23d-d801-4e1d-8d60-b28066cf0533))
-    (pin "7" (uuid 3714f7eb-11ee-4ce1-b914-157790f28eed))
-    (pin "6" (uuid 3fc09454-1e92-4602-80eb-7177b9de38ca))
+    (pin "3" (uuid d705da4b-fe4f-4c26-9e8b-71fcf2eb14fa))
     (pin "4" (uuid 6d565ad5-a324-479d-a58b-f6e30e03a578))
     (pin "5" (uuid bd526ea7-5e61-4883-8499-f580b183e286))
+    (pin "6" (uuid 3fc09454-1e92-4602-80eb-7177b9de38ca))
+    (pin "7" (uuid 3714f7eb-11ee-4ce1-b914-157790f28eed))
+    (pin "8" (uuid ee8ba4ff-c891-4ba7-8f5f-c599f33b4bfe))
     (instances
       (project "AppleII"
         (path "/f1f08369-4db3-46f7-9b89-a5d3cfbed55a/00000000-0000-0000-0000-00005fe9ff4d"
