@@ -5589,7 +5589,7 @@
   (symbol (lib_id "Device:C_Small") (at 325.12 21.59 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 154599bb-2e42-4685-a00c-ff1bd06f8061)
-    (property "Reference" "Cap1" (at 323.342 21.336 0)
+    (property "Reference" "Cap16" (at 323.342 21.336 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "0.1uF" (at 325.12 19.812 0)
@@ -5605,12 +5605,6 @@
     (pin "2" (uuid 5429f4b1-34d7-46ce-8879-cb1752f1797b))
     (instances
       (project "AppleII"
-        (path "/f1f08369-4db3-46f7-9b89-a5d3cfbed55a/00000000-0000-0000-0000-00006016cde0"
-          (reference "Cap1") (unit 1)
-        )
-        (path "/f1f08369-4db3-46f7-9b89-a5d3cfbed55a/00000000-0000-0000-0000-00006039aab4"
-          (reference "Cap3") (unit 1)
-        )
         (path "/f1f08369-4db3-46f7-9b89-a5d3cfbed55a/00000000-0000-0000-0000-00006017a131"
           (reference "Cap16") (unit 1)
         )
@@ -5827,7 +5821,7 @@
   (symbol (lib_id "power:GND") (at 322.58 21.59 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 52d102c0-d3a1-43b2-b8ba-6cd1cd032769)
-    (property "Reference" "#PWR013" (at 316.23 21.59 0)
+    (property "Reference" "#PWR015" (at 316.23 21.59 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 318.1858 21.717 0)
@@ -5842,9 +5836,6 @@
     (pin "1" (uuid f5922b2a-d154-4eca-b247-b7b0c1df2446))
     (instances
       (project "AppleII"
-        (path "/f1f08369-4db3-46f7-9b89-a5d3cfbed55a/00000000-0000-0000-0000-00006039aab4"
-          (reference "#PWR013") (unit 1)
-        )
         (path "/f1f08369-4db3-46f7-9b89-a5d3cfbed55a/00000000-0000-0000-0000-00006017a131"
           (reference "#PWR015") (unit 1)
         )
@@ -5905,7 +5896,7 @@
   (symbol (lib_id "power:GND") (at 168.91 123.19 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 7891f26e-556c-4def-84ca-cda6e43eef48)
-    (property "Reference" "#PWR013" (at 168.91 129.54 0)
+    (property "Reference" "#PWR018" (at 168.91 129.54 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 169.037 127.5842 0)
@@ -5920,9 +5911,6 @@
     (pin "1" (uuid c32513d5-a3bf-4ebc-bf14-1ca750cb1340))
     (instances
       (project "AppleII"
-        (path "/f1f08369-4db3-46f7-9b89-a5d3cfbed55a/00000000-0000-0000-0000-00006039aab4"
-          (reference "#PWR013") (unit 1)
-        )
         (path "/f1f08369-4db3-46f7-9b89-a5d3cfbed55a/00000000-0000-0000-0000-00006017a131"
           (reference "#PWR018") (unit 1)
         )
@@ -5933,7 +5921,7 @@
   (symbol (lib_id "Device:C_Small") (at 168.91 120.65 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 797f1b7a-71fc-45dd-b7df-26417f130579)
-    (property "Reference" "Cap1" (at 168.656 122.428 0)
+    (property "Reference" "Cap19" (at 168.656 122.428 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "0.1uF" (at 167.132 120.65 0)
@@ -5949,12 +5937,6 @@
     (pin "2" (uuid 33aa558b-1d9d-40be-8e14-6089cd6566d1))
     (instances
       (project "AppleII"
-        (path "/f1f08369-4db3-46f7-9b89-a5d3cfbed55a/00000000-0000-0000-0000-00006016cde0"
-          (reference "Cap1") (unit 1)
-        )
-        (path "/f1f08369-4db3-46f7-9b89-a5d3cfbed55a/00000000-0000-0000-0000-00006039aab4"
-          (reference "Cap3") (unit 1)
-        )
         (path "/f1f08369-4db3-46f7-9b89-a5d3cfbed55a/00000000-0000-0000-0000-00006017a131"
           (reference "Cap19") (unit 1)
         )
@@ -6015,7 +5997,7 @@
   (symbol (lib_id "Device:C_Small") (at 57.15 162.56 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 99425994-d6c1-4853-8476-1e3cb9f07425)
-    (property "Reference" "Cap1" (at 55.372 162.306 0)
+    (property "Reference" "Cap18" (at 55.372 162.306 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "0.1uF" (at 57.15 160.782 0)
@@ -6031,12 +6013,6 @@
     (pin "2" (uuid 0b3a4652-bc79-490d-af9e-b70bbf292c8a))
     (instances
       (project "AppleII"
-        (path "/f1f08369-4db3-46f7-9b89-a5d3cfbed55a/00000000-0000-0000-0000-00006016cde0"
-          (reference "Cap1") (unit 1)
-        )
-        (path "/f1f08369-4db3-46f7-9b89-a5d3cfbed55a/00000000-0000-0000-0000-00006039aab4"
-          (reference "Cap3") (unit 1)
-        )
         (path "/f1f08369-4db3-46f7-9b89-a5d3cfbed55a/00000000-0000-0000-0000-00006017a131"
           (reference "Cap18") (unit 1)
         )
@@ -6127,7 +6103,7 @@
   (symbol (lib_id "power:GND") (at 54.61 162.56 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f3d4d6ad-b0c4-4933-ab07-b99ac1588571)
-    (property "Reference" "#PWR013" (at 48.26 162.56 0)
+    (property "Reference" "#PWR017" (at 48.26 162.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 50.2158 162.687 0)
@@ -6142,9 +6118,6 @@
     (pin "1" (uuid 6c41d808-1760-4f77-b875-9239d97d2e38))
     (instances
       (project "AppleII"
-        (path "/f1f08369-4db3-46f7-9b89-a5d3cfbed55a/00000000-0000-0000-0000-00006039aab4"
-          (reference "#PWR013") (unit 1)
-        )
         (path "/f1f08369-4db3-46f7-9b89-a5d3cfbed55a/00000000-0000-0000-0000-00006017a131"
           (reference "#PWR017") (unit 1)
         )

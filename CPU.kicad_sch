@@ -5604,7 +5604,7 @@
     (property "Reference" "H7" (at 245.11 74.676 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "MOS6502" (at 242.062 76.454 0)
+    (property "Value" "6502" (at 242.062 76.454 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Package_DIP:DIP-40_W15.24mm" (at 236.22 148.59 0)
