@@ -1815,7 +1815,6 @@
   (no_connect (at 368.3 195.834) (uuid 1a55feb8-abb7-485a-85b0-d06b188844f0))
   (no_connect (at 360.68 231.14) (uuid 3ffabc81-cf1d-4451-b643-13dac93a6c0b))
   (no_connect (at 316.23 241.3) (uuid f0253cb5-b387-47fe-90dc-403f19ecc33f))
-  (no_connect (at 156.21 106.68) (uuid fac4a982-01d4-4812-91bc-4b8d28cde7c4))
   (no_connect (at 331.47 195.834) (uuid fbd145e8-8e79-4c8b-82ed-379ba7996e2f))
   (no_connect (at 318.77 241.3) (uuid fe718fd5-8b34-4ec5-b3e4-279fae5fa25a))
 
@@ -5734,6 +5733,31 @@
       (project "AppleII"
         (path "/f1f08369-4db3-46f7-9b89-a5d3cfbed55a/00000000-0000-0000-0000-00006017a131"
           (reference "B10") (unit 2)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "power:GND") (at 156.21 106.68 270) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid 4fba2044-a0d8-405c-87a5-2f34d7471489)
+    (property "Reference" "#PWR012" (at 149.86 106.68 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Value" "GND" (at 153.416 104.14 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "" (at 156.21 106.68 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (at 156.21 106.68 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid dad20448-425c-4723-8536-73feac6e470c))
+    (instances
+      (project "AppleII"
+        (path "/f1f08369-4db3-46f7-9b89-a5d3cfbed55a/00000000-0000-0000-0000-00006017a131"
+          (reference "#PWR012") (unit 1)
         )
       )
     )
