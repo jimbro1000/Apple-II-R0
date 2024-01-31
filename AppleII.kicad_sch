@@ -32,6 +32,10 @@
     (uuid f445afd5-4ef8-4e70-9ee4-3afc0a5fdd8c)
   )
 
+  (bus (pts (xy 74.93 38.1) (xy 74.93 76.2))
+    (stroke (width 0) (type default))
+    (uuid 007fec08-9eae-4355-b47b-28a7d7c11e6f)
+  )
   (bus (pts (xy 148.59 58.42) (xy 148.59 109.22))
     (stroke (width 0) (type default))
     (uuid 0f71352c-6ffe-4993-a48b-0fbca799534d)
@@ -147,6 +151,10 @@
       (effects (font (size 1.27 1.27)) (justify left))
       (uuid 859a1812-3f41-4f03-8a90-23f16b3cdc0a)
     )
+    (pin "KBD_Data[0..6]" input (at 74.93 38.1 270)
+      (effects (font (size 1.27 1.27)) (justify left))
+      (uuid 9acb339b-b7f0-4187-8f19-fc65925617ca)
+    )
     (instances
       (project "AppleII"
         (path "/f1f08369-4db3-46f7-9b89-a5d3cfbed55a" (page "2"))
@@ -192,6 +200,10 @@
     (pin "D[0..7]" output (at 68.58 76.2 90)
       (effects (font (size 1.27 1.27)) (justify right))
       (uuid 845263a9-32a3-491e-8afb-98a458b5177c)
+    )
+    (pin "KBD_Data[0..6]" output (at 74.93 76.2 90)
+      (effects (font (size 1.27 1.27)) (justify right))
+      (uuid 13834ba6-e570-467e-bcfd-336d658ab6aa)
     )
     (instances
       (project "AppleII"
