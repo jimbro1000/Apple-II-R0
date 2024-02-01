@@ -6002,7 +6002,7 @@
     (property "Value" "0.1uF" (at 63.5 220.472 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm" (at 63.5 222.25 0)
+    (property "Footprint" "Apple-II:C_Disc_D5.0mm_W2.5mm_P5.00mm" (at 63.5 222.25 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 63.5 222.25 0)
