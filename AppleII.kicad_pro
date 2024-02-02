@@ -522,6 +522,14 @@
     [
       "00000000-0000-0000-0000-00006017a131",
       "Address Decoder and Onboard IO"
+    ],
+    [
+      "67a37613-ae9b-4983-bb37-e39c83d65432",
+      "Prototyping"
+    ],
+    [
+      "3f9129c1-b23a-40ee-8e6c-4893535c582b",
+      "Mounting"
     ]
   ],
   "text_variables": {}

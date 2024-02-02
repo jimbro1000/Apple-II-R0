@@ -333,6 +333,40 @@
     )
   )
 
+  (sheet (at 60.198 154.686) (size 29.464 24.892) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 3f9129c1-b23a-40ee-8e6c-4893535c582b)
+    (property "Sheetname" "Mounting" (at 60.198 153.9744 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "mounting.kicad_sch" (at 60.198 180.1626 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "AppleII"
+        (path "/f1f08369-4db3-46f7-9b89-a5d3cfbed55a" (page "11"))
+      )
+    )
+  )
+
+  (sheet (at 26.162 154.432) (size 29.718 25.146) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 67a37613-ae9b-4983-bb37-e39c83d65432)
+    (property "Sheetname" "Prototyping" (at 26.162 153.7204 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "proto.kicad_sch" (at 26.162 180.1626 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "AppleII"
+        (path "/f1f08369-4db3-46f7-9b89-a5d3cfbed55a" (page "10"))
+      )
+    )
+  )
+
   (sheet_instances
     (path "/" (page "1"))
   )
